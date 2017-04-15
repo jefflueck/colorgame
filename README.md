@@ -6,6 +6,7 @@
 * If the wrong color is guessed, message "Try Again at the top of the page".
 * If wrong box is clicked, it disappears limiting choices.
 * If the right answer is given, message "Correct!".
+* Correct answer also changes all boxes correct color and background of header correct color.
 
 ### Right answer produces a unique result
 * If answer is right then change all boxes to same color.
